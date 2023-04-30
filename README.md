@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ankit-521
-- 👀 I’m interested in programming, data science and machine learning
+- 👀 I’m interested in application development, data science and machine learning
 - 🌱 I’m currently learning web application development
 - 💞️ I’m looking to collaborate on any ML project
 - 📫 How to reach me ankitkumarns521@gmail.com
